@@ -1,0 +1,1086 @@
+[API Trapper      (3990:22c0)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      ( cec:32f0)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer ( cec:323c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( cec:323c)] Load Network Traffic Analyzers:
+[Network Analyzer ( cec:323c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( cec:323c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( cec:323c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( cec:323c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( cec:323c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( cec:323c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( cec:323c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( cec:4334)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[API Trapper      (2dc0:3710)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer ( cec:323c)] Establish Listener @ 127.0.0.1:8488
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:8488   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:40cc)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:40cc)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:3820)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:3820)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4190)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4190)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec: ff0)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec: ff0)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:14ac)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 64.233.162.95:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:14ac)] SSLAccept(ssl_id = 1983594128784 = 000001CDD76C6590) Failed, ctx = 000001CDD768C860, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Net An. Error    ( cec:14ac)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:1298)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:1298)] SSLAccept(ssl_id = 1983594514512 = 000001CDD7724850) Failed, ctx = 000001CDD7708050, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:1298)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:29dc)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( cec:29dc)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:3dc8)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:3dc8)] SSLAccept(ssl_id = 1983594903632 = 000001CDD7783850) Failed, ctx = 000001CDD76ECCC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:3dc8)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:1ce0)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:1ce0)] SSLAccept(ssl_id = 1983595171792 = 000001CDD77C4FD0) Failed, ctx = 000001CDD75E7040, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:1ce0)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4064)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 44.239.75.237:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 16)  PROXIED!
+[Net An. Error    ( cec:4064)] SSLAccept(ssl_id = 1983593991840 = 000001CDD76A4EA0) Failed, ctx = 000001CDD769FA10, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:4064)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:12e4)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:32cc)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Net An. Error    ( cec:12e4)] SSLAccept(ssl_id = 1983594041120 = 000001CDD76B0F20) Failed, ctx = 000001CDD768C400, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:12e4)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:32cc)] SSLAccept(ssl_id = 1983593998000 = 000001CDD76A66B0) Failed, ctx = 000001CDD75E7040, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:32cc)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:3a30)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:3a30)] SSLAccept(ssl_id = 1983594022640 = 000001CDD76AC6F0) Failed, ctx = 000001CDD75E7040, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:3a30)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:340c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:340c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:329c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:329c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec: 674)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec: 674)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:1bbc)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:1bbc)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:18c8)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:18c8)] SSLAccept(ssl_id = 1983594041120 = 000001CDD76B0F20) Failed, ctx = 000001CDD769FA10, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:18c8)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Web Request      ( cec:4334)] "GET /WebTours"   
+[Network Analyzer ( cec:4334)]   (Sid: 23) Client -> Server @ : 477 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 23) Server -> Client : 506 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/"   
+[Network Analyzer ( cec:4334)]   (Sid: 23) Client -> Server @ : 478 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 23) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/header.html"   
+[Network Analyzer ( cec:4334)]   (Sid: 23) Client -> Server @ : 515 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 23) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( cec:4334)]   (Sid: 23) Client -> Server @ : 526 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 23) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /favicon.ico"   
+[Network Analyzer ( cec:4334)]   (Sid: 24) Client -> Server @ : 415 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 24) Server -> Client : 425 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( cec:4334)]   (Sid: 23) Client -> Server @ : 567 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer ( cec:4334)]   (Sid: 24) Client -> Server @ : 442 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 24) Server -> Client : 899 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( cec:4334)]   (Sid: 26) Client -> Server @ : 443 bytes (Service=HTTP)
+[Web Request      ( cec:4334)] "GET /WebTours/home.html"   
+[Network Analyzer ( cec:4334)]   (Sid: 25) Client -> Server @ : 563 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 26) Server -> Client : 4488 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 25) Server -> Client : 1661 bytes  (Service=HTTP)
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:11dc)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:11dc)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 23) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 26) Client -> Server @ : 474 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 26) Server -> Client : 977 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer ( cec:4334)]   (Sid: 25) Connection Terminated (by Server)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 26) Connection Terminated (by Server)
+[Network Analyzer ( cec:4334)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 672 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( cec:4334)]   (Sid: 30) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 30) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 1024 bytes  (Service=HTTP)
+[Web Request      ( cec:4334)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 30) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 30) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 30) Client -> Server @ : 592 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 30) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:3794)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:3794)] SSLAccept(ssl_id = 1983594004160 = 000001CDD76A7EC0) Failed, ctx = 000001CDD769FA10, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:3794)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 709 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 694 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( cec:4334)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer ( cec:4334)]   (Sid: 30) Client -> Server @ : 677 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 602 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 30) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 30) Server -> Client : 4262 bytes  (Service=HTTP)
+[Web Request      ( cec:4334)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 31) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 31) Server -> Client : 987 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 30) Client -> Server @ : 590 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( cec:4334)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer ( cec:4334)]   (Sid: 29) Client -> Server @ : 594 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 30) Server -> Client : 1129 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Server -> Client : 1040 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer ( cec:4334)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer ( cec:4334)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 1_transaction [Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:1588)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:1588)] SSLAccept(ssl_id = 1983595164768 = 000001CDD77C3460) Failed, ctx = 000001CDD769FA10, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    ( cec:1588)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer ( cec:4334)]   (Sid: 36) Client -> Server @ : 1033 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 36) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 36) Server -> Client : 3118 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid: 36) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:323c)] Address lookup for LAPTOP-96794ARS = 192.168.100.7
+[Network Analyzer ( cec:3798)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:323c)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:3798)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:1ec0)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /canonical.html"   
+[Network Analyzer ( cec:4334)]   (Sid:  5) Client -> Server @ : 322 bytes (Service=HTTP)
+[Network Analyzer ( cec:1ec0)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  5) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( cec:4334)] "GET /success.txt?ipv4"   
+[Network Analyzer ( cec:4334)]   (Sid: 10) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 10) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer ( cec:4334)]   (Sid: 38) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 1_transaction [Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( cec:4334)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( cec:4334)]   (Sid: 36) Connection Terminated (by Client)

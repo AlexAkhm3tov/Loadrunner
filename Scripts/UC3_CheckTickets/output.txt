@@ -1,0 +1,110 @@
+Virtual User Script started at: 14/11/2023 20:37:56
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0  	[MsgId: MMSG-26988]
+Runtime Settings file: "D:\IBS_Loadrunner\Scripts\UC3_CheckTickets\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "UC3_CheckTickets" started.
+..\\Parameters\\LibCommonTransactions.h(2): Notify: Transaction "GotoHome" started.
+..\\Parameters\\LibCommonTransactions.h(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(6): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(6): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(9): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(9): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(12): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(12): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(15): web_add_auto_header("DNT") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(15): web_add_auto_header("DNT") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(18): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(18): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(21): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(21): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(24): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(24): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(28): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(28): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(33): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(33): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(33): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(33): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(33): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(33): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(33): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(33): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(33): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(33): web_url("WebTours") was successful, 10076 body bytes, 2377 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(43): Notify: Transaction "GotoHome" ended with a "Pass" status (Duration: 0,3963 Wasted Time: 0,1809).
+..\\Parameters\\LibCommonTransactions.h(47): Notify: Transaction "Login" started.
+..\\Parameters\\LibCommonTransactions.h(49): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(49): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
+..\\Parameters\\LibCommonTransactions.h(49): web_remove/revert_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(51): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(51): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(54): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(54): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+..\\Parameters\\LibCommonTransactions.h(54): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(56): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(56): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(59): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(59): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(62): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(62): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(66): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(66): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(66): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(66): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(66): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(66): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(66): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(66): Registered web_reg_find successful for "Text=Welcome, <b>jojo</b>, to the Web Tours reservation pages" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(66): web_submit_data("login.pl") was successful, 5779 body bytes, 2035 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(83): Notify: Transaction "Login" ended with a "Pass" status (Duration: 0,2692 Wasted Time: 0,0150).
+..\\Parameters\\LibCommonTransactions.h(207): Notify: Transaction "CheckTickets" started.
+..\\Parameters\\LibCommonTransactions.h(209): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(209): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(212): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(212): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(215): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(215): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(219): web_url("Itinerary Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(219): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(219): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(219): Resource "http://localhost:1080/WebTours/images/flights.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\LibCommonTransactions.h(219): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(219): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(219): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\LibCommonTransactions.h(219): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(219): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\Parameters\\LibCommonTransactions.h(219): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(219): web_url("Itinerary Button") was successful, 7683 body bytes, 1917 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(229): Notify: Transaction "CheckTickets" ended with a "Pass" status (Duration: 0,3027 Wasted Time: 0,0148).
+..\\Parameters\\LibCommonTransactions.h(183): Notify: Transaction "LogOut" started.
+..\\Parameters\\LibCommonTransactions.h(185): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(185): Warning -26590: web_remove/revert_auto_header for "Origin" had no effect  	[MsgId: MWAR-26590]
+..\\Parameters\\LibCommonTransactions.h(185): web_remove/revert_auto_header("Origin") highest severity level was "warning"  	[MsgId: MMSG-26391]
+..\\Parameters\\LibCommonTransactions.h(187): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(187): Warning -26590: web_remove/revert_auto_header for "Sec-Fetch-User" had no effect  	[MsgId: MWAR-26590]
+..\\Parameters\\LibCommonTransactions.h(187): web_remove/revert_auto_header("Sec-Fetch-User") highest severity level was "warning"  	[MsgId: MMSG-26391]
+..\\Parameters\\LibCommonTransactions.h(189): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(189): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(193): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(193): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(193): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(193): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\Parameters\\LibCommonTransactions.h(193): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\LibCommonTransactions.h(193): Registered web_reg_find successful for "Text=Web Tours Navigation Bar" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(193): web_url("SignOff Button") was successful, 2175 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(203): Notify: Transaction "LogOut" ended with a "Pass" status (Duration: 0,2061 Wasted Time: 0,0106).
+Action.c(20): Notify: Transaction "UC3_CheckTickets" ended with a "Pass" status (Duration: 1,3914 Wasted Time: 0,2213).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
