@@ -1,3 +1,6 @@
+Action() 
+{
+
 	lr_start_transaction("UC7_Login");
 
 		GotoHome();
@@ -11,3 +14,6 @@
 		LogOut();
 
 	lr_end_transaction("UC7_Login",LR_AUTO);
+		
+	return 0;
+}

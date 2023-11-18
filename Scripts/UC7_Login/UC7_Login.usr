@@ -52,9 +52,11 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order=
+Order="UC7_Login"
 [StateManagement]
 LastReplayStatus=0
 [ActiveReplay]
 LastReplayedRunName=
 ActiveRunName=
+[Transactions]
+UC7_Login=
