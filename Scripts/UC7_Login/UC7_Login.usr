@@ -1,7 +1,7 @@
 [General]
 Type=Multi
 DefaultCfg=default.cfg
-ParameterFile=UC2_BuyTicket.prm
+ParameterFile=
 GlobalParameterFile=
 NewFunctionHeader=1
 RunType=cci
@@ -18,9 +18,9 @@ DFERebrandFlag=Done
 ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
-LastCodeGenerationVer=2020.0.0.0
+LastCodeGenerationVer=
 DisableRegenerate=0
-Encoding=ANSI
+Encoding=
 Description=
 ScriptLocale=ru-RU
 [Actions]
@@ -41,23 +41,20 @@ Action=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
-Action=1
+Action=0
 vuser_end=0
 [Replayed Actions]
-vuser_init=1
-Action=1
-vuser_end=1
+vuser_init=0
+Action=0
+vuser_end=0
 [Interpreters]
 vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC2_BuyTicket__*delimiter*__BuyTicket"
+Order=
 [StateManagement]
-LastReplayStatus=1
+LastReplayStatus=0
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
-[Transactions]
-UC2_BuyTicket=
-BuyTicket=
+LastReplayedRunName=
+ActiveRunName=

@@ -50,6 +50,14 @@ Project("B00E87F6-8B04-427A-BD80-056994B50130") = "UC6_RegAllUsers", "Scripts\UC
 		Value = True
 	EndProjectSection
 EndProject
+Project("80DA527F-301A-45CE-9F35-6BF4245136DA") = "UC7_Login", "Scripts\UC7_Login\UC7_Login.usr", "80DA527F-301A-45CE-9F35-6BF4245136DA"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkQ6XElCU19Mb2FkcnVubmVyXFNjcmlwdHNcVUM3X0xvZ2luXFVDN19Mb2dpbi51c3I8L0xvYWREYXRhPg0KICA8RmlsZXM+DQogICAgPEZpbGU+RDpcSUJTX0xvYWRydW5uZXJcU2NyaXB0c1xVQzdfTG9naW5cVUM3X0xvZ2luLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjMtMTEtMThUMTI6MTc6NDQuODUzNTM2MyswNTowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,5 +88,9 @@ Global
 		B00E87F6-8B04-427A-BD80-056994B50130.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		B00E87F6-8B04-427A-BD80-056994B50130.Release|Any CPU.Build.0 = Release|Any CPU
 		B00E87F6-8B04-427A-BD80-056994B50130.Release|Any CPU.ActiveCfg = Release|Any CPU
+		80DA527F-301A-45CE-9F35-6BF4245136DA.Debug|Any CPU.Build.0 = Debug|Any CPU
+		80DA527F-301A-45CE-9F35-6BF4245136DA.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		80DA527F-301A-45CE-9F35-6BF4245136DA.Release|Any CPU.Build.0 = Release|Any CPU
+		80DA527F-301A-45CE-9F35-6BF4245136DA.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
