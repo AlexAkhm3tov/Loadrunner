@@ -5,7 +5,7 @@ Action()
 	
 		GotoHome();
 		
-		lr_think_time(4);
+		lr_think_time(5);
 	
 		lr_start_transaction("SignUP");
 	
@@ -35,7 +35,7 @@ Action()
 	
 		lr_end_transaction("SignUP",LR_AUTO);
 		
-		lr_think_time(20);
+		lr_think_time(5);
 	
 		lr_start_transaction("Registration");
 	
@@ -61,7 +61,7 @@ Action()
 				"Snapshot=t3.inf", 
 				"Mode=HTML", 
 				ITEMDATA, 
-				"Name=username", "Value={logpart1}{logpart2}", ENDITEM, 
+				"Name=username", "Value={logpart1}{logpart2}{logpart3}", ENDITEM, 
 				"Name=password", "Value={password}", ENDITEM, 
 				"Name=passwordConfirm", "Value={password}", ENDITEM, 
 				"Name=firstName", "Value={firstname}", ENDITEM, 
@@ -73,10 +73,12 @@ Action()
 				LAST);
 		
 		lr_end_transaction("Registration",LR_AUTO);
+		
+		lr_think_time(5);
 	
 		lr_start_transaction("Continue");
 	
-			web_reg_find("Text/IC=Welcome, <b>{logpart1}{logpart2}</b>, to the Web Tours reservation pages.",
+			web_reg_find("Text/IC=Welcome, <b>{logpart1}{logpart2}{logpart3}</b>, to the Web Tours reservation pages.",
 			LAST);
 
 			web_url("button_next.gif", 
@@ -90,6 +92,8 @@ Action()
 			LAST);
 
 		lr_end_transaction("Continue",LR_AUTO);
+		
+		lr_think_time(5);
 		
 		LogOut();
 		

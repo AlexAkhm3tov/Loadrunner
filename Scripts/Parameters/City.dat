@@ -1,11 +1,11 @@
 cityArrive,cityDepart
-Denver,Denver
-Frankfurt,Frankfurt
-London,London
-Los Angeles,Los Angeles
-Paris,Paris
-Portland,Portland
-San Francisco,San Francisco
-Seattle,Seattle
-Sydney,Sydney
-Zurich,Zurich
+Denver,Frankfurt
+Frankfurt,Denver
+London,Los Angele
+Los Angeles,London
+Paris,Portland
+Portland,Paris
+San Francisco,Seattle
+Seattle,San Francisco
+Sydney,Zurich
+Zurich,Sydney

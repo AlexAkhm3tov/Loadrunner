@@ -1,15 +1,14 @@
 Action()
 {
-
 	lr_start_transaction("UC2_BuyTicket");
 
 		GotoHome();
 		
-		lr_think_time(7);
+		lr_think_time(5);
 	
 		Login();
 		
-		lr_think_time(13);
+		lr_think_time(5);
 		
 		GotoFindTicket();
 		
@@ -17,11 +16,11 @@ Action()
 	
 		FindTicket();
 	
-		lr_think_time(11);
+		lr_think_time(5);
 	
 		ChooseTicket();
 		
-		lr_think_time(8);
+		lr_think_time(5);
 		
 		lr_start_transaction("BuyTicket");
 		
@@ -55,7 +54,7 @@ Action()
 				"Name=creditCard", "Value={card}", ENDITEM, 
 				"Name=expDate", "Value={expdate}", ENDITEM, 
 				"Name=oldCCOption", "Value=", ENDITEM, 
-				"Name=numPassengers", "Value=1", ENDITEM, 
+				"Name=numPassengers", "Value={Count}", ENDITEM, 
 				"Name=seatType", "Value={SeatType}", ENDITEM, 
 				"Name=seatPref", "Value={SeatPref}", ENDITEM, 
 				"Name=outboundFlight", "Value={outboundFlight}", ENDITEM, 
@@ -69,7 +68,7 @@ Action()
 	
 		lr_end_transaction("BuyTicket",LR_AUTO);
 	
-		lr_think_time(9);
+		lr_think_time(5);
 		
 		LogOut();
 

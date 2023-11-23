@@ -167,38 +167,6 @@ Action()
 			}
 			
 			lr_end_transaction("DeleteTicket",LR_AUTO);
-			
-		
-//			for (i = 0; i < rndNumber; ++i) {
-//		
-//				lr_save_string(lr_paramarr_random("checkbox"), "rndCheckbox");
-//	
-//				lr_save_string(lr_paramarr_idx("flightID", atoi(lr_eval_string("rndCheckbox"))), "rndFlightID");
-//
-//				web_reg_find("Fail=Found",
-//				  "Text/IC={rndFlightID}",
-//				  LAST);
-//	     
-//				lr_start_transaction("DeleteTicket");
-//				
-////					lr_save_string(lr_paramarr_random("checkbox"), "rndCheckbox");
-////	
-////					lr_save_string(lr_paramarr_idx("flightID", atoi(lr_eval_string("rndCheckbox"))), "rndFlightID");
-////	
-////					web_reg_find("Fail=Found",
-////				  		"Text/IC={rndFlightID}",
-////				 	 	LAST);
-//					
-//				web_submit_form("itinerary.pl", 
-//					"Snapshot=t4.inf", 
-//					ITEMDATA, 
-//					"Name={rndCheckbox}", "Value=on", ENDITEM,
-//					"Name=removeFlights.x", "Value=55", ENDITEM,
-//					"Name=removeFlights.y", "Value=9", ENDITEM, 
-//					LAST);
-//				
-//				lr_end_transaction("DeleteTicket",LR_AUTO);
-//			}
 				
 		}
 		

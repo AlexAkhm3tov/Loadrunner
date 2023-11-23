@@ -1,4 +1,4 @@
-Virtual User Script started at: 14/11/2023 20:23:06
+Virtual User Script started at: 23/11/2023 1:37:07
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -38,8 +38,8 @@ Action.c(4): Notify: Transaction "UC1_FindTicket" started.
 ..\\Parameters\\LibCommonTransactions.h(33): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
 ..\\Parameters\\LibCommonTransactions.h(33): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
 ..\\Parameters\\LibCommonTransactions.h(33): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
-..\\Parameters\\LibCommonTransactions.h(33): web_url("WebTours") was successful, 10080 body bytes, 2377 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\Parameters\\LibCommonTransactions.h(43): Notify: Transaction "GotoHome" ended with a "Pass" status (Duration: 0,4074 Wasted Time: 0,1881).
+..\\Parameters\\LibCommonTransactions.h(33): web_url("WebTours") was successful, 10078 body bytes, 2377 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(43): Notify: Transaction "GotoHome" ended with a "Pass" status (Duration: 0,4897 Wasted Time: 0,2323).
 ..\\Parameters\\LibCommonTransactions.h(47): Notify: Transaction "Login" started.
 ..\\Parameters\\LibCommonTransactions.h(49): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
 ..\\Parameters\\LibCommonTransactions.h(49): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
@@ -64,7 +64,7 @@ Action.c(4): Notify: Transaction "UC1_FindTicket" started.
 ..\\Parameters\\LibCommonTransactions.h(66): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
 ..\\Parameters\\LibCommonTransactions.h(66): Registered web_reg_find successful for "Text=Welcome, <b>jojo</b>, to the Web Tours reservation pages" (count=1)  	[MsgId: MMSG-26364]
 ..\\Parameters\\LibCommonTransactions.h(66): web_submit_data("login.pl") was successful, 5779 body bytes, 2035 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\Parameters\\LibCommonTransactions.h(83): Notify: Transaction "Login" ended with a "Pass" status (Duration: 0,2626 Wasted Time: 0,0149).
+..\\Parameters\\LibCommonTransactions.h(83): Notify: Transaction "Login" ended with a "Pass" status (Duration: 0,2692 Wasted Time: 0,0154).
 ..\\Parameters\\LibCommonTransactions.h(87): Notify: Transaction "GotoFindTicket" started.
 ..\\Parameters\\LibCommonTransactions.h(89): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
 ..\\Parameters\\LibCommonTransactions.h(89): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
@@ -82,45 +82,45 @@ Action.c(4): Notify: Transaction "UC1_FindTicket" started.
 ..\\Parameters\\LibCommonTransactions.h(99): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
 ..\\Parameters\\LibCommonTransactions.h(99): Registered web_reg_find successful for "Text=Find Flight" (count=1)  	[MsgId: MMSG-26364]
 ..\\Parameters\\LibCommonTransactions.h(99): web_url("Search Flights Button") was successful, 8516 body bytes, 1619 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\Parameters\\LibCommonTransactions.h(109): Notify: Transaction "GotoFindTicket" ended with a "Pass" status (Duration: 0,2792 Wasted Time: 0,0143).
+..\\Parameters\\LibCommonTransactions.h(109): Notify: Transaction "GotoFindTicket" ended with a "Pass" status (Duration: 0,2830 Wasted Time: 0,0148).
 ..\\Parameters\\LibCommonTransactions.h(113): Notify: Transaction "FindTicket" started.
 ..\\Parameters\\LibCommonTransactions.h(115): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
 ..\\Parameters\\LibCommonTransactions.h(115): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
 ..\\Parameters\\LibCommonTransactions.h(118): web_reg_save_param started  	[MsgId: MMSG-26355]
 ..\\Parameters\\LibCommonTransactions.h(118): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
-..\\Parameters\\LibCommonTransactions.h(123): web_reg_find started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(123): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
-..\\Parameters\\LibCommonTransactions.h(127): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(127): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-..\\Parameters\\LibCommonTransactions.h(127): Registered web_reg_find successful for "Text=Flight departing from <B>Denver</B> to <B>Paris</B>" (count=1)  	[MsgId: MMSG-26364]
-..\\Parameters\\LibCommonTransactions.h(127): web_submit_data("reservations.pl") was successful, 2439 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\Parameters\\LibCommonTransactions.h(151): Notify: Transaction "FindTicket" ended with a "Pass" status (Duration: 0,1278 Wasted Time: 0,0096).
-..\\Parameters\\LibCommonTransactions.h(155): Notify: Transaction "ChooseTicket" started.
-..\\Parameters\\LibCommonTransactions.h(157): web_reg_find started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(157): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
-..\\Parameters\\LibCommonTransactions.h(161): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(161): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-..\\Parameters\\LibCommonTransactions.h(161): Registered web_reg_find successful for "Text=Flight Reservation" (count=1)  	[MsgId: MMSG-26364]
-..\\Parameters\\LibCommonTransactions.h(161): web_submit_data("reservations.pl_2") was successful, 2703 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\Parameters\\LibCommonTransactions.h(179): Notify: Transaction "ChooseTicket" ended with a "Pass" status (Duration: 0,1681 Wasted Time: 0,0096).
-..\\Parameters\\LibCommonTransactions.h(183): Notify: Transaction "LogOut" started.
-..\\Parameters\\LibCommonTransactions.h(185): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(185): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
-..\\Parameters\\LibCommonTransactions.h(185): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
-..\\Parameters\\LibCommonTransactions.h(187): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(187): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
-..\\Parameters\\LibCommonTransactions.h(187): web_remove/revert_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
-..\\Parameters\\LibCommonTransactions.h(189): web_reg_find started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(189): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
-..\\Parameters\\LibCommonTransactions.h(193): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
-..\\Parameters\\LibCommonTransactions.h(193): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
-..\\Parameters\\LibCommonTransactions.h(193): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
-..\\Parameters\\LibCommonTransactions.h(193): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
-..\\Parameters\\LibCommonTransactions.h(193): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-..\\Parameters\\LibCommonTransactions.h(193): Registered web_reg_find successful for "Text=Web Tours Navigation Bar" (count=1)  	[MsgId: MMSG-26364]
-..\\Parameters\\LibCommonTransactions.h(193): web_url("SignOff Button") was successful, 2174 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-..\\Parameters\\LibCommonTransactions.h(203): Notify: Transaction "LogOut" ended with a "Pass" status (Duration: 0,1967 Wasted Time: 0,0112).
-Action.c(28): Notify: Transaction "UC1_FindTicket" ended with a "Pass" status (Duration: 1,5823 Wasted Time: 0,2476).
+..\\Parameters\\LibCommonTransactions.h(124): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(124): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(129): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(129): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\LibCommonTransactions.h(129): Registered web_reg_find successful for "Text=Flight departing from <B>Frankfurt</B> to <B>Los Angeles</B>" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(129): web_submit_data("reservations.pl") was successful, 2461 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(153): Notify: Transaction "FindTicket" ended with a "Pass" status (Duration: 0,1411 Wasted Time: 0,0140).
+..\\Parameters\\LibCommonTransactions.h(157): Notify: Transaction "ChooseTicket" started.
+..\\Parameters\\LibCommonTransactions.h(159): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(159): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(163): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(163): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\LibCommonTransactions.h(163): Registered web_reg_find successful for "Text=Flight Reservation" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(163): web_submit_data("reservations.pl_2") was successful, 2711 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(181): Notify: Transaction "ChooseTicket" ended with a "Pass" status (Duration: 0,1360 Wasted Time: 0,0093).
+..\\Parameters\\LibCommonTransactions.h(185): Notify: Transaction "LogOut" started.
+..\\Parameters\\LibCommonTransactions.h(187): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(187): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+..\\Parameters\\LibCommonTransactions.h(187): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(189): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(189): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
+..\\Parameters\\LibCommonTransactions.h(189): web_remove/revert_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\LibCommonTransactions.h(191): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(191): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(195): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(195): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(195): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(195): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\Parameters\\LibCommonTransactions.h(195): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\LibCommonTransactions.h(195): Registered web_reg_find successful for "Text=Web Tours Navigation Bar" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(195): web_url("SignOff Button") was successful, 2171 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(205): Notify: Transaction "LogOut" ended with a "Pass" status (Duration: 0,2074 Wasted Time: 0,0223).
+Action.c(28): Notify: Transaction "UC1_FindTicket" ended with a "Pass" status (Duration: 1,7264 Wasted Time: 0,3081).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...

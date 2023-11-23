@@ -5,11 +5,11 @@ Action()
 
 		GotoHome();
 		
-		lr_think_time(7);
+		lr_think_time(5);
 	
 		Login();
 		
-		lr_think_time(13);
+		lr_think_time(5);
 		
 		GotoFindTicket();
 		
@@ -17,11 +17,11 @@ Action()
 	
 		FindTicket();
 	
-		lr_think_time(11);
+		lr_think_time(5);
 	
 		ChooseTicket();
 		
-		lr_think_time(9);
+		lr_think_time(5);
 	
 		LogOut();
 

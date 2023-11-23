@@ -118,12 +118,14 @@ FindTicket(){
 		web_reg_save_param("outboundFlight",
 			"LB= name=\"outboundFlight\" value=\"",
 			"RB=\"",
+			"ORD=random",
 			LAST);
 		
 		web_reg_find("Fail=NotFound",
 			"Text=Flight departing from <B>{CityDepart}</B> to <B>{CityArrive}</B>",
 			LAST);
-	
+		
+
 		web_submit_data("reservations.pl", 
 			"Action=http://localhost:1080/cgi-bin/reservations.pl", 
 			"Method=POST", 
@@ -138,7 +140,7 @@ FindTicket(){
 			"Name=departDate", "Value={DateDepart}", ENDITEM, 
 			"Name=arrive", "Value={CityArrive}", ENDITEM, 
 			"Name=returnDate", "Value={DateArrive}", ENDITEM, 
-			"Name=numPassengers", "Value=1", ENDITEM, 
+			"Name=numPassengers", "Value={Count}", ENDITEM, 
 			"Name=seatPref", "Value={SeatPref}", ENDITEM, 
 			"Name=seatType", "Value={SeatType}", ENDITEM, 
 			"Name=findFlights.x", "Value=22", ENDITEM, 
@@ -148,7 +150,7 @@ FindTicket(){
 			"Name=.cgifields", "Value=seatPref", ENDITEM, 
 			LAST);
 	
-		lr_end_transaction("FindTicket",LR_AUTO);
+	lr_end_transaction("FindTicket",LR_AUTO);
 }
 	
 ChooseTicket(){
@@ -168,7 +170,7 @@ ChooseTicket(){
 			"Mode=HTML", 
 			ITEMDATA, 
 			"Name=outboundFlight", "Value={outboundFlight}", ENDITEM, 
-			"Name=numPassengers", "Value=1", ENDITEM, 
+			"Name=numPassengers", "Value={Count}", ENDITEM, 
 			"Name=advanceDiscount", "Value=0", ENDITEM, 
 			"Name=seatType", "Value={SeatType}", ENDITEM, 
 			"Name=seatPref", "Value={SeatPref}", ENDITEM, 
@@ -176,7 +178,7 @@ ChooseTicket(){
 			"Name=reserveFlights.y", "Value=5", ENDITEM, 
 			LAST);
 	
-		lr_end_transaction("ChooseTicket",LR_AUTO);
+	lr_end_transaction("ChooseTicket",LR_AUTO);
 }
 
 LogOut(){
