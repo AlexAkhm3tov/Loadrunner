@@ -11,6 +11,10 @@ Action()
 		
 		lr_think_time(5);
 	
+		GotoFindTicket();
+		
+		lr_think_time(5);
+		
 		LogOut();
 
 	lr_end_transaction("UC7_Login",LR_AUTO);

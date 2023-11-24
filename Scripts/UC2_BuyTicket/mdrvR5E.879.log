@@ -1,0 +1,26 @@
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(36): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(36): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(40): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(40): Registered web_reg_find successful for "Text=Invoice" (count=2)  	[MsgId: MMSG-26364]
+Action.c(40): web_submit_data("reservations.pl_3") was successful, 3305 body bytes, 660 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(69): Notify: Transaction "BuyTicket" ended with a "Pass" status (Duration: 0,1145 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(71): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(73): Error: C interpreter run time error: Action.c (73):  Error -- Unresolved symbol : ChekTickets.	[MsgId: MERR-19890]
+Start auto log messages stack - Iteration 1.	[MsgId: MMSG-10545]
+Action.c(36): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(36): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(40): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(40): Registered web_reg_find successful for "Text=Invoice" (count=2)  	[MsgId: MMSG-26364]
+Action.c(40): web_submit_data("reservations.pl_3") was successful, 3299 body bytes, 660 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(69): Notify: Transaction "BuyTicket" ended with a "Pass" status (Duration: 0,1111 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(71): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(73): Error: C interpreter run time error: Action.c (73):  Error -- Unresolved symbol : ChekTickets.	[MsgId: MERR-19890]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

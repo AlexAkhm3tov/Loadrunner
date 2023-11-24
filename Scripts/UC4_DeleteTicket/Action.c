@@ -14,11 +14,11 @@ Action()
 	
 		GotoHome();
 		
-		lr_think_time(7);
+		lr_think_time(5);
 	
 		Login();
 
-		lr_think_time(7);
+		lr_think_time(5);
 
 		web_reg_find("SaveCount=NoBooking",
 			"Text/IC=<H3>No flights have been reserved.</H3>",
@@ -48,7 +48,7 @@ Action()
 			rndNumber = 1;
 		}
 	
-		lr_think_time(13);
+		lr_think_time(5);
 	                  
 		if (atoi(lr_eval_string("{NoBooking}")) == 1) {
 	  
@@ -169,6 +169,10 @@ Action()
 			lr_end_transaction("DeleteTicket",LR_AUTO);
 				
 		}
+		
+		lr_think_time(5);
+		
+		LogOut();
 		
 	lr_end_transaction("UC4_DeleteTicket",LR_AUTO);
 

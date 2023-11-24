@@ -70,7 +70,7 @@ Action()
 	
 		lr_think_time(5);
 		
-		LogOut();
+		CheckTickets();
 
 	lr_end_transaction("UC2_BuyTicket",LR_AUTO);
 
