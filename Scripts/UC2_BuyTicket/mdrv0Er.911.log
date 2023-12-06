@@ -1,0 +1,9 @@
+Start auto log messages stack - Iteration 20.	[MsgId: MMSG-10545]
+..\\Parameters\\LibCommonTransactions.h(217): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(221): web_url("Itinerary Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(221): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(221): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(221): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

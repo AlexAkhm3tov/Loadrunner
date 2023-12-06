@@ -1,0 +1,568 @@
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221): t=1312650ms: Connected socket [3] from 127.0.0.1:21302 to 127.0.0.1:1080 in 3 ms  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(221): t=1312651ms: 634-byte request headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=669)
+..\\Parameters\\LibCommonTransactions.h(221):     GET /WebTours/images/cancelreservation.gif HTTP/1.1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-User: ?1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     DNT: 1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept-Encoding: gzip, deflate\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept: */*\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Host: localhost:1080\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Cookie: MSO=SID&1701713680; MTUserInfo=firstName&Joker&address2&Gotham&username&joker&hash
+..\\Parameters\\LibCommonTransactions.h(221):     &82&lastName&Clown%0A&address1&Circus&creditCard&&expDate&%0A\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221): t=1312652ms: 299-byte response headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=668)
+..\\Parameters\\LibCommonTransactions.h(221):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Date: Mon, 04 Dec 2023 18:14:51 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     ETag: "22000000065153-2b0-4b654c0620500"\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept-Ranges: bytes\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Content-Length: 688\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Content-Type: image/gif\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221): t=1312652ms: 688-byte response body for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=668)
+..\\Parameters\\LibCommonTransactions.h(221): t=1312652ms: Request done "http://localhost:1080/WebTours/images/home.gif"  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(221): t=1312653ms: 299-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=669)
+..\\Parameters\\LibCommonTransactions.h(221):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Date: Mon, 04 Dec 2023 18:14:51 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     ETag: "52000000005b94-33f-4b654c0620500"\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept-Ranges: bytes\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Content-Length: 831\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Content-Type: image/gif\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221): t=1312653ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=669)
+..\\Parameters\\LibCommonTransactions.h(221): t=1312653ms: Request done "http://localhost:1080/WebTours/images/cancelreservation.gif"  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(221): t=1312653ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=665)
+..\\Parameters\\LibCommonTransactions.h(221):     0\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221): t=1312654ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(221): t=1312654ms: Connected socket [5] from 127.0.0.1:21303 to 127.0.0.1:1080 in 6 ms  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(221): t=1312654ms: 638-byte request headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=670)
+..\\Parameters\\LibCommonTransactions.h(221):     GET /WebTours/images/cancelallreservations.gif HTTP/1.1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-User: ?1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Upgrade-Insecure-Requests: 1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     DNT: 1\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept-Encoding: gzip, deflate\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept: */*\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Host: localhost:1080\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Cookie: MSO=SID&1701713680; MTUserInfo=firstName&Joker&address2&Gotham&username&joker&hash
+..\\Parameters\\LibCommonTransactions.h(221):     &82&lastName&Clown%0A&address1&Circus&creditCard&&expDate&%0A\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221): t=1312655ms: 299-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=670)
+..\\Parameters\\LibCommonTransactions.h(221):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Date: Mon, 04 Dec 2023 18:14:51 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     ETag: "5500000002d698-2e6-4b654c0620500"\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Accept-Ranges: bytes\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Content-Length: 742\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     Content-Type: image/gif\r\n
+..\\Parameters\\LibCommonTransactions.h(221):     \r\n
+..\\Parameters\\LibCommonTransactions.h(221): t=1312655ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=670)
+..\\Parameters\\LibCommonTransactions.h(221): t=1312656ms: Request done "http://localhost:1080/WebTours/images/cancelallreservations.gif"  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(221): Registered web_reg_find successful for "Text=<H3>No flights have been reserved.</H3>"  	[MsgId: MMSG-26362]
+..\\Parameters\\LibCommonTransactions.h(221): Notify: Saving Parameter "NoBooking = 0".	[MsgId: MMSG-13798]
+..\\Parameters\\LibCommonTransactions.h(221): Notify: Saving Parameter "flightID_count = 5".	[MsgId: MMSG-13798]
+..\\Parameters\\LibCommonTransactions.h(221): Notify: Saving Parameter "checkbox_count = 5".	[MsgId: MMSG-13798]
+..\\Parameters\\LibCommonTransactions.h(221): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(221): web_url("Itinerary Button") was successful, 12440 body bytes, 1923 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(231): Notify: Transaction "CheckTickets" ended with a "Pass" status (Duration: 0,1984 Wasted Time: 0,0008).	[MsgId: MMSG-16871]
+Action.c(45): Notify: Parameter Substitution: parameter "rndNumber" =  "3"	[MsgId: MMSG-13992]
+Action.c(47): Notify: Parameter Substitution: parameter "checkbox_count" =  "5"	[MsgId: MMSG-13992]
+Action.c(53): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(55): Notify: Parameter Substitution: parameter "NoBooking" =  "0"	[MsgId: MMSG-13992]
+Action.c(66): Notify: Transaction "DeleteTicket" started.	[MsgId: MMSG-16999]
+Action.c(132): Notify: Saving Parameter "rndCheckbox1 = 3".	[MsgId: MMSG-13798]
+Action.c(133): Notify: Parameter Substitution: parameter "flightID_3" =  "246902604-23177-JC"	[MsgId: MMSG-13992]
+Action.c(133): Notify: Saving Parameter "rndFlightID1 = 246902604-23177-JC".	[MsgId: MMSG-13798]
+Action.c(150): Notify: Saving Parameter "rndCheckbox2 = 1".	[MsgId: MMSG-13798]
+Action.c(151): Notify: Parameter Substitution: parameter "flightID_1" =  "246913819-820-JC"	[MsgId: MMSG-13992]
+Action.c(151): Notify: Saving Parameter "rndFlightID2 = 246913819-820-JC".	[MsgId: MMSG-13798]
+Action.c(164): Notify: Saving Parameter "rndCheckbox3 = 2".	[MsgId: MMSG-13798]
+Action.c(165): Notify: Parameter Substitution: parameter "flightID_2" =  "246894950-1589-JC"	[MsgId: MMSG-13992]
+Action.c(165): Notify: Saving Parameter "rndFlightID3 = 246894950-1589-JC".	[MsgId: MMSG-13798]
+Action.c(167): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(167): Notify: Parameter Substitution: parameter "rndFlightID1" =  "246902604-23177-JC"	[MsgId: MMSG-13992]
+Action.c(167): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(171): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(171): Notify: Parameter Substitution: parameter "rndFlightID2" =  "246913819-820-JC"	[MsgId: MMSG-13992]
+Action.c(171): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(175): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(175): Notify: Parameter Substitution: parameter "rndFlightID3" =  "246894950-1589-JC"	[MsgId: MMSG-13992]
+Action.c(175): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(179): web_submit_form("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(179): Notify: Parameter Substitution: parameter "rndCheckbox1" =  "3"	[MsgId: MMSG-13992]
+Action.c(179): Notify: Parameter Substitution: parameter "rndCheckbox2" =  "1"	[MsgId: MMSG-13992]
+Action.c(179): Notify: Parameter Substitution: parameter "rndCheckbox3" =  "2"	[MsgId: MMSG-13992]
+Action.c(179): Submitting form to "http://localhost:1080/cgi-bin/itinerary.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(179): t=1317674ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+Action.c(179): t=1317674ms: 638-byte request headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     POST /cgi-bin/itinerary.pl HTTP/1.1\r\n
+Action.c(179):     Content-Type: application/x-www-form-urlencoded\r\n
+Action.c(179):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+Action.c(179):     Sec-Fetch-Dest: frame\r\n
+Action.c(179):     Sec-Fetch-Site: same-origin\r\n
+Action.c(179):     Sec-Fetch-Mode: navigate\r\n
+Action.c(179):     DNT: 1\r\n
+Action.c(179):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Action.c(179):     \r\n
+Action.c(179):     Accept-Encoding: gzip, deflate\r\n
+Action.c(179):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+Action.c(179):     Accept: */*\r\n
+Action.c(179):     Connection: Keep-Alive\r\n
+Action.c(179):     Host: localhost:1080\r\n
+Action.c(179):     Cookie: MSO=SID&1701713680; MTUserInfo=firstName&Joker&address2&Gotham&username&joker&hash
+Action.c(179):     &82&lastName&Clown%0A&address1&Circus&creditCard&&expDate&%0A\r\n
+Action.c(179):     Content-Length: 253\r\n
+Action.c(179):     \r\n
+Action.c(179): t=1317674ms: 253-byte request body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     1=on&flightID=246913819-820-JC&2=on&flightID=246894950-1589-JC&3=on&flightID=246902604-231
+Action.c(179):     77-JC&flightID=246922273-30884-JC&flightID=246923381-38580-JC&.cgifields=4&.cgifields=1&.c
+Action.c(179):     gifields=3&.cgifields=2&.cgifields=5&removeFlights.x=55&removeFlights.y=9
+Action.c(179): t=1317675ms: Server localhost has shut down the connection [0] prematurely (empty response, no HTTP headers received). Considering retry  	[MsgId: MMSG-26000]
+Action.c(179): t=1317675ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+Action.c(179): t=1317675ms: reporting user data point RETRY_KEEP_ALIVE  	[MsgId: MMSG-26000]
+Action.c(179): t=1317675ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(179): t=1317675ms: Connected socket [0] from 127.0.0.1:21321 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+Action.c(179): t=1317675ms: 638-byte request headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     POST /cgi-bin/itinerary.pl HTTP/1.1\r\n
+Action.c(179):     Content-Type: application/x-www-form-urlencoded\r\n
+Action.c(179):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+Action.c(179):     Sec-Fetch-Dest: frame\r\n
+Action.c(179):     Sec-Fetch-Site: same-origin\r\n
+Action.c(179):     Sec-Fetch-Mode: navigate\r\n
+Action.c(179):     DNT: 1\r\n
+Action.c(179):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Action.c(179):     \r\n
+Action.c(179):     Accept-Encoding: gzip, deflate\r\n
+Action.c(179):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+Action.c(179):     Accept: */*\r\n
+Action.c(179):     Connection: Keep-Alive\r\n
+Action.c(179):     Host: localhost:1080\r\n
+Action.c(179):     Cookie: MSO=SID&1701713680; MTUserInfo=firstName&Joker&address2&Gotham&username&joker&hash
+Action.c(179):     &82&lastName&Clown%0A&address1&Circus&creditCard&&expDate&%0A\r\n
+Action.c(179):     Content-Length: 253\r\n
+Action.c(179):     \r\n
+Action.c(179): t=1317676ms: 253-byte request body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     1=on&flightID=246913819-820-JC&2=on&flightID=246894950-1589-JC&3=on&flightID=246902604-231
+Action.c(179):     77-JC&flightID=246922273-30884-JC&flightID=246923381-38580-JC&.cgifields=4&.cgifields=1&.c
+Action.c(179):     gifields=3&.cgifields=2&.cgifields=5&removeFlights.x=55&removeFlights.y=9
+Action.c(179): t=1317676ms: Inactive socket [2] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(179): t=1317676ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(179): t=1317676ms: Inactive socket [5] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(179): t=1317677ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(179): t=1317704ms: Inactive socket [4] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(179): t=1317704ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(179): t=1317704ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+Action.c(179): t=1317704ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Action.c(179): t=1317772ms: 256-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     HTTP/1.1 200 OK\r\n
+Action.c(179):     Date: Mon, 04 Dec 2023 18:14:56 GMT\r\n
+Action.c(179):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(179):     Expires: Sun, 03 Dec 2023 18:14:56 GMT\r\n
+Action.c(179):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(179):     Connection: Keep-Alive\r\n
+Action.c(179):     Transfer-Encoding: chunked\r\n
+Action.c(179):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(179):     \r\n
+Action.c(179): t=1317772ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     f10\r\n
+Action.c(179): t=1317772ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     \r\n
+Action.c(179): t=1317772ms: 3856-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     <!DOCTYPE html\n
+Action.c(179):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(179):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(179):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(179):     <head>\n
+Action.c(179):     <title>Flights List</title>\n
+Action.c(179):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(179):     </head>\n
+Action.c(179):     <body bgcolor="#E0E7F1">\n
+Action.c(179):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(179):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(179):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+Action.c(179):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+Action.c(179):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+Action.c(179):     ">\n
+Action.c(179):     <center>\n
+Action.c(179):     <TABLE BORDER="0" WIDTH="85%" CELLSPACING="0">\n
+Action.c(179):     <TR bgcolor="#5E7884">\n
+Action.c(179):       <TD colspan="4" align="center"><font color="white"><B>Joker Clown\n
+Action.c(179):      's Flight Transaction Summary</B></color></TD></TR>\n
+Action.c(179):     \n
+Action.c(179):     <!-- Flight #1 -->\n
+Action.c(179):     <TR bgcolor="#EFF2F7">\n
+Action.c(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(179):     <b>\n
+Action.c(179):     <label><input type="checkbox" name="1" value="on" /></label></font></b>\n
+Action.c(179):     <input type="hidden" name="flightID" value="246922273-7807-JC"  />\n
+Action.c(179):       </TD>\n
+Action.c(179):       <TD width="45%" valign="top">\n
+Action.c(179):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+Action.c(179):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(179):           <li><i>Joker Clown      <li><i>      <li><i>      <li><i>\n
+Action.c(179):           <li><i></i>\n
+Action.c(179):           </td></tr></table></center>\n
+Action.c(179):       </TD>\n
+Action.c(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(179):           <center>\n
+Action.c(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(179):               Joker Clown\n
+Action.c(179):     <br/>\n
+Action.c(179):               Circus<br/>\n
+Action.c(179):               Gotham<br/>\n
+Action.c(179):               <br/>\n
+Action.c(179):               Total Charge: $ 1500 <BR/> (CC: x-6666)\n
+Action.c(179):           </td> </tr> </table>\n
+Action.c(179):           </center>\n
+Action.c(179):       </TD>\n
+Action.c(179):     </TR>\n
+Action.c(179):     <TR bgcolor="#EFF2F7">\n
+Action.c(179):       <TD COLSPAN="3">\n
+Action.c(179):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(179):       12/04/2023\n
+Action.c(179):      :  1pm : Flight 901 leaves Zurich  for Denver.<br>  </center>\n
+Action.c(179):       </TD>\n
+Action.c(179):     </TR>\n
+Action.c(179):     \n
+Action.c(179):     <TR bgcolor="#EFF2F7">\n
+Action.c(179):       <TD COLSPAN="4">\n
+Action.c(179):       <hr/>\n
+Action.c(179):       </TD>\n
+Action.c(179):     </TR>\n
+Action.c(179):     \n
+Action.c(179):     <!-- Flight #1 -->\n
+Action.c(179):     <TR bgcolor="#EFF2F7">\n
+Action.c(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(179):     <b>\n
+Action.c(179):     <label><input type="checkbox" name="2" value="on" /></label></font></b>\n
+Action.c(179):     <input type="hidden" name="flightID" value="246923381-15503-JC"  />\n
+Action.c(179):       </TD>\n
+Action.c(179):       <TD width="45%" valign="top">\n
+Action.c(179):           <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>\n
+Action.c(179):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(179):           <li><i>Joker Clown      <li><i>      <li><i>      <li><i>      <li><i>\n
+Action.c(179):           <li><i></i>\n
+Action.c(179):           </td></tr></table></center>\n
+Action.c(179):       </TD>\n
+Action.c(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(179):           <center>\n
+Action.c(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(179):               Joker Clown\n
+Action.c(179):     <br/>\n
+Action.c(179):               Circus<br/>\n
+Action.c(179):               Gotham<br/>\n
+Action.c(179):               <br/>\n
+Action.c(179):               Total Charge: $ 1540 <BR/> (CC: x-6666)\n
+Action.c(179):           </td> </tr> </table>\n
+Action.c(179):           </center>\n
+Action.c(179):       </TD>\n
+Action.c(179):     </TR>\n
+Action.c(179):     <TR bgcolor="#EFF2F7">\n
+Action.c(179):       <TD COLSPAN="3">\n
+Action.c(179):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(179):       12/04/2023\n
+Action.c(179):      :  1pm : Flight 931 leaves Zurich  for Los Angeles.<br>  </center>\n
+Action.c(179):       </TD>\n
+Action.c(179):     </TR>\n
+Action.c(179):     \n
+Action.c(179):     <TR bgcolor="#EFF2F7">\n
+Action.c(179):       <TD COLSPAN="4">\n
+Action.c(179):       <hr/>\n
+Action.c(179):       </TD>\n
+Action.c(179):     </TR>\n
+Action.c(179):     <TR>\n
+Action.c(179):        <TD align="center" COLSPAN="4">\n
+Action.c(179):        <b>A total of 2 scheduled flights.</font></b>\n
+Action.c(179):        </TD>\n
+Action.c(179):     </TR>\n
+Action.c(179):     </TABLE>\n
+Action.c(179):     \n
+Action.c(179):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(179):     <TR>\n
+Action.c(179):     <TD align="left" width="50%" >\n
+Action.c(179):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(179):     er="0" /></TD>\n
+Action.c(179):     <TD align="right" width="50%" >\n
+Action.c(179):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(179):     f" border="0" /></TD>\n
+Action.c(179):     </TABLE>\n
+Action.c(179):     \n
+Action.c(179):     <div><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifi
+Action.c(179):     elds" value="2"  /></div></form>\n
+Action.c(179):     \n
+Action.c(179):     </center>\n
+Action.c(179):     \n
+Action.c(179):     </body>\n
+Action.c(179):     </html>
+Action.c(179): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(179): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(179): t=1317776ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=671)
+Action.c(179):     0\r\n
+Action.c(179):     \r\n
+Action.c(179): t=1317777ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+Action.c(179): Registered web_reg_find successful for "Text=246902604-23177-JC"  	[MsgId: MMSG-26362]
+Action.c(179): Registered web_reg_find successful for "Text=246913819-820-JC"  	[MsgId: MMSG-26362]
+Action.c(179): Registered web_reg_find successful for "Text=246894950-1589-JC"  	[MsgId: MMSG-26362]
+Action.c(179): web_submit_form("itinerary.pl") was successful, 3856 body bytes, 256 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(190): Notify: Transaction "DeleteTicket" ended with a "Pass" status (Duration: 0,1043 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(194): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+..\\Parameters\\LibCommonTransactions.h(185): Notify: Transaction "LogOut" started.	[MsgId: MMSG-16999]
+..\\Parameters\\LibCommonTransactions.h(187): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(187): Warning -26590: web_remove/revert_auto_header for "Origin" had no effect  	[MsgId: MWAR-26590]
+..\\Parameters\\LibCommonTransactions.h(187): web_remove/revert_auto_header("Origin") highest severity level was "warning"  	[MsgId: MMSG-26391]
+..\\Parameters\\LibCommonTransactions.h(189): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(189): Warning -26590: web_remove/revert_auto_header for "Sec-Fetch-User" had no effect  	[MsgId: MWAR-26590]
+..\\Parameters\\LibCommonTransactions.h(189): web_remove/revert_auto_header("Sec-Fetch-User") highest severity level was "warning"  	[MsgId: MMSG-26391]
+..\\Parameters\\LibCommonTransactions.h(191): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(191): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\LibCommonTransactions.h(195): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322792ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322792ms: 590-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=672)
+..\\Parameters\\LibCommonTransactions.h(195):     GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     DNT: 1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept-Encoding: gzip, deflate\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept: */*\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Host: localhost:1080\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Cookie: MSO=SID&1701713680; MTUserInfo=firstName&Joker&address2&Gotham&username&joker&hash
+..\\Parameters\\LibCommonTransactions.h(195):     &82&lastName&Clown%0A&address1&Circus&creditCard&&expDate&%0A\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322867ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=672)
+..\\Parameters\\LibCommonTransactions.h(195):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Date: Mon, 04 Dec 2023 18:15:01 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Set-Cookie: MSO=SID&1701713701; path=/\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Set-Cookie: MTUserInfo=; path=/; expires=Sun, 03-Dec-2023 18:15:01 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322868ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=672)
+..\\Parameters\\LibCommonTransactions.h(195):     2ae\r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322868ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=672)
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322868ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=672)
+..\\Parameters\\LibCommonTransactions.h(195):     <!-- \n
+..\\Parameters\\LibCommonTransactions.h(195):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\Parameters\\LibCommonTransactions.h(195):      Also, the server options have been loaded into the cookie called\n
+..\\Parameters\\LibCommonTransactions.h(195):      MSO as well.  The server options can be set via the Admin page.\n
+..\\Parameters\\LibCommonTransactions.h(195):      --->\n
+..\\Parameters\\LibCommonTransactions.h(195):     \n
+..\\Parameters\\LibCommonTransactions.h(195):     <html>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <title>Web Tours</title>\n
+..\\Parameters\\LibCommonTransactions.h(195):        <!-- Frame Set -->\n
+..\\Parameters\\LibCommonTransactions.h(195):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\Parameters\\LibCommonTransactions.h(195):           <!-- Navigation Frame -->\n
+..\\Parameters\\LibCommonTransactions.h(195):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\Parameters\\LibCommonTransactions.h(195):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\LibCommonTransactions.h(195):           <!-- Home Frame -->\n
+..\\Parameters\\LibCommonTransactions.h(195):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\Parameters\\LibCommonTransactions.h(195):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\LibCommonTransactions.h(195):        </frameset>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </html>\n
+..\\Parameters\\LibCommonTransactions.h(195):     \n
+..\\Parameters\\LibCommonTransactions.h(195):     </body>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </html>
+..\\Parameters\\LibCommonTransactions.h(195): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(195): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\LibCommonTransactions.h(195): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322869ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=674)
+..\\Parameters\\LibCommonTransactions.h(195):     <HTML>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <HEAD>\n
+..\\Parameters\\LibCommonTransactions.h(195):     \t<title>Web Tours</title>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </HEAD>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <style>\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\Parameters\\LibCommonTransactions.h(195):     N: none}\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\Parameters\\LibCommonTransactions.h(195):     CORATION: underline}\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\LibCommonTransactions.h(195):     </style>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <body bgcolor="#e0e7f1">\n
+..\\Parameters\\LibCommonTransactions.h(195):     <BR/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <BR/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <BR/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <br/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <table border="0">\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td></td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <TR><TD></TD></TR>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <TR><TD>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <blockquote>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <H1><b>Web Tours</b></H1>\n
+..\\Parameters\\LibCommonTransactions.h(195):     Welcome to the Web Tours site.\n
+..\\Parameters\\LibCommonTransactions.h(195):     <br/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     To make reservations,please enter your account information to the left.\n
+..\\Parameters\\LibCommonTransactions.h(195):     <br/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\Parameters\\LibCommonTransactions.h(195):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\Parameters\\LibCommonTransactions.h(195):     <br/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\Parameters\\LibCommonTransactions.h(195):     tration</b></A> link.\n
+..\\Parameters\\LibCommonTransactions.h(195):     <br/><br/><br/><br/><br/><br/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <br/><small>\n
+..\\Parameters\\LibCommonTransactions.h(195):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\Parameters\\LibCommonTransactions.h(195):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\Parameters\\LibCommonTransactions.h(195):     </small>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </blockquote></TD>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <TD></TD></TR>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </table>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </body>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </HTML>\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322871ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=672)
+..\\Parameters\\LibCommonTransactions.h(195):     0\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322871ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322871ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322871ms: 452-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=673)
+..\\Parameters\\LibCommonTransactions.h(195):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     DNT: 1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept-Encoding: gzip, deflate\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept: */*\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Host: localhost:1080\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Cookie: MSO=SID&1701713701\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322872ms: reporting user data point RETRY_KEEP_ALIVE  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): RETRY 0: WSA_IO_PENDING  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322872ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322872ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322873ms: Connected socket [3] from 127.0.0.1:21340 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322873ms: 452-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=673)
+..\\Parameters\\LibCommonTransactions.h(195):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Dest: frame\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Site: same-origin\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Sec-Fetch-Mode: navigate\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     DNT: 1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept-Encoding: gzip, deflate\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Accept: */*\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Host: localhost:1080\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Cookie: MSO=SID&1701713701\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322971ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=673)
+..\\Parameters\\LibCommonTransactions.h(195):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Date: Mon, 04 Dec 2023 18:15:01 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Expires: Sun, 03 Dec 2023 18:15:01 GMT\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Connection: Keep-Alive\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322971ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=673)
+..\\Parameters\\LibCommonTransactions.h(195):     5d2\r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322971ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=673)
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322971ms: 1490-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=673)
+..\\Parameters\\LibCommonTransactions.h(195):     <!DOCTYPE html\n
+..\\Parameters\\LibCommonTransactions.h(195):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\LibCommonTransactions.h(195):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\LibCommonTransactions.h(195):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\LibCommonTransactions.h(195):     <head>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\LibCommonTransactions.h(195):     </head>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\LibCommonTransactions.h(195):     <style>\n
+..\\Parameters\\LibCommonTransactions.h(195):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\LibCommonTransactions.h(195):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\LibCommonTransactions.h(195):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\LibCommonTransactions.h(195):     small {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\LibCommonTransactions.h(195):     </style>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\Parameters\\LibCommonTransactions.h(195):     <input type="hidden" name="userSession" value="137846.391332523HAQAtHDpHftVzzzHtcftcpitcfc
+..\\Parameters\\LibCommonTransactions.h(195):     f"/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td><small>&nbsp;Password</small></td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\Parameters\\LibCommonTransactions.h(195):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </form>\n
+..\\Parameters\\LibCommonTransactions.h(195):     \n
+..\\Parameters\\LibCommonTransactions.h(195):     </body>\n
+..\\Parameters\\LibCommonTransactions.h(195):     </html>\n
+..\\Parameters\\LibCommonTransactions.h(195): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\LibCommonTransactions.h(195): t=1322976ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=673)
+..\\Parameters\\LibCommonTransactions.h(195):     0\r\n
+..\\Parameters\\LibCommonTransactions.h(195):     \r\n
+..\\Parameters\\LibCommonTransactions.h(195): t=1322976ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\Parameters\\LibCommonTransactions.h(195): Registered web_reg_find successful for "Text=Web Tours Navigation Bar" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\LibCommonTransactions.h(195): web_url("SignOff Button") was successful, 2176 body bytes, 583 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\LibCommonTransactions.h(205): Notify: Transaction "LogOut" ended with a "Pass" status (Duration: 0,1861 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(198): Notify: Transaction "UC4_DeleteTicket" ended with a "Pass" status (Duration: 20,9333 Think Time: 20,0430 Wasted Time: 0,0012).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Action.c(78): t=1322982ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+Action.c(78): t=1322982ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 15324), ended OK."	[MsgId: MMSG-10695]

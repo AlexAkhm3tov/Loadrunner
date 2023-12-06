@@ -1,0 +1,53 @@
+28 11 1701728920 2 172648384 204266028 1699544
+28 4 UC3_CheckTickets 2 1701728921 0 UC3_CheckTickets localhost 0 1
+28 10 localhost 28 0 0
+28 4 UC5_RegUser 7 1701728921 0 UC5_RegUser localhost 0 1
+28 4 UC2_BuyTicket 2 1701728921 0 UC2_BuyTicket localhost 0 1
+28 0 UC3_CheckTickets 2 1701728921 0 localhost 0
+28 8 UC3_CheckTickets 2  0 0
+28 2 UC3_CheckTickets 2 1701728921 0 p 0 0
+28 0 UC5_RegUser 7 1701728921 0 localhost 0
+28 8 UC5_RegUser 7  0 0
+28 2 UC5_RegUser 7 1701728921 0 p 0 0
+28 4 UC4_DeleteTicket 2 1701728921 0 UC4_DeleteTicket localhost 0 1
+28 0 UC2_BuyTicket 2 1701728922 0 localhost 0
+28 8 UC2_BuyTicket 2  0 0
+28 2 UC2_BuyTicket 2 1701728922 0 p 0 0
+28 4 UC5_RegUser 8 1701728922 0 UC5_RegUser localhost 0 1
+28 4 UC7_Login 2 1701728922 0 UC7_Login localhost 0 1
+28 4 UC7_Login 3 1701728922 0 UC7_Login localhost 0 1
+28 4 uc1_findticket 2 1701728922 0 UC1_FindTicket_2 localhost 0 1
+28 0 UC4_DeleteTicket 2 1701728922 0 localhost 0
+28 8 UC4_DeleteTicket 2  0 0
+28 2 UC4_DeleteTicket 2 1701728922 0 p 0 0
+28 0 UC7_Login 3 1701728922 0 localhost 0
+28 8 UC7_Login 3  0 0
+28 0 UC7_Login 2 1701728922 0 localhost 0
+28 8 UC7_Login 2  0 0
+28 2 UC7_Login 2 1701728922 0 p 0 0
+28 2 UC7_Login 3 1701728922 0 p 0 0
+28 4 UC2_BuyTicket 3 1701728922 0 UC2_BuyTicket localhost 0 1
+28 0 uc1_findticket 2 1701728922 0 localhost 0
+28 8 uc1_findticket 2  0 0
+28 2 uc1_findticket 2 1701728922 0 p 0 0
+28 0 UC2_BuyTicket 3 1701728922 0 localhost 0
+28 8 UC2_BuyTicket 3  0 0
+28 0 UC5_RegUser 8 1701728922 0 localhost 0
+28 8 UC5_RegUser 8  0 0
+28 2 UC2_BuyTicket 3 1701728922 0 p 0 0
+28 4 uc1_findticket 3 1701728922 0 UC1_FindTicket_2 localhost 0 1
+28 2 UC5_RegUser 8 1701728922 0 p 0 0
+28 0 uc1_findticket 3 1701728922 0 localhost 0
+28 8 uc1_findticket 3  0 0
+28 2 uc1_findticket 3 1701728922 0 p 0 0
+28 1 UC3_CheckTickets 2 1701730241 0 2
+28 1 UC7_Login 3 1701730242 0 2
+28 1 UC7_Login 2 1701730242 0 2
+28 1 UC5_RegUser 8 1701730242 0 2
+28 1 UC5_RegUser 7 1701730242 0 2
+28 1 UC4_DeleteTicket 2 1701730243 0 2
+28 1 uc1_findticket 2 1701730262 0 2
+28 1 uc1_findticket 3 1701730262 0 2
+28 1 UC2_BuyTicket 2 1701730265 0 2
+28 1 UC2_BuyTicket 3 1701730265 0 2
+28 12 1701730265 1 1701730265 0 1701730265

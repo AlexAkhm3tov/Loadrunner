@@ -1,0 +1,153 @@
+28 11 1701779603 2 294854320 204266004 1699600
+28 4 uc5_reguser 1 1701779605 0 uc5_reguser localhost 0 1
+28 10 localhost 28 0 0
+28 0 uc5_reguser 1 1701779605 0 localhost 0
+28 8 uc5_reguser 1  0 0
+28 2 uc5_reguser 1 1701779605 0 p 0 0
+28 4 uc7_login 1 1701779605 0 uc7_login localhost 0 1
+28 0 uc7_login 1 1701779605 0 localhost 0
+28 8 uc7_login 1  0 0
+28 2 uc7_login 1 1701779605 0 p 0 0
+28 4 uc2_buyticket 1 1701779606 0 uc2_buyticket localhost 0 1
+28 0 uc2_buyticket 1 1701779606 0 localhost 0
+28 8 uc2_buyticket 1  0 0
+28 2 uc2_buyticket 1 1701779606 0 p 0 0
+28 4 uc1_findticket 1 1701779607 0 uc1_findticket localhost 0 1
+28 0 uc1_findticket 1 1701779607 0 localhost 0
+28 8 uc1_findticket 1  0 0
+28 2 uc1_findticket 1 1701779607 0 p 0 0
+28 4 uc3_checktickets 1 1701779608 0 uc3_checktickets localhost 0 1
+28 0 uc3_checktickets 1 1701779608 0 localhost 0
+28 8 uc3_checktickets 1  0 0
+28 2 uc3_checktickets 1 1701779608 0 p 0 0
+28 4 uc4_deleteticket 1 1701779609 0 uc4_deleteticket localhost 0 1
+28 0 uc4_deleteticket 1 1701779609 0 localhost 0
+28 8 uc4_deleteticket 1  0 0
+28 2 uc4_deleteticket 1 1701779609 0 p 0 0
+28 4 uc2_buyticket 2 1701779610 0 uc2_buyticket localhost 0 1
+28 0 uc2_buyticket 2 1701779610 0 localhost 0
+28 8 uc2_buyticket 2  0 0
+28 2 uc2_buyticket 2 1701779610 0 p 0 0
+28 4 uc7_login 2 1701779611 0 uc7_login localhost 0 1
+28 0 uc7_login 2 1701779611 0 localhost 0
+28 8 uc7_login 2  0 0
+28 2 uc7_login 2 1701779611 0 p 0 0
+28 4 uc5_reguser 2 1701779612 0 uc5_reguser localhost 0 1
+28 0 uc5_reguser 2 1701779612 0 localhost 0
+28 8 uc5_reguser 2  0 0
+28 2 uc5_reguser 2 1701779612 0 p 0 0
+28 4 uc1_findticket 2 1701779613 0 uc1_findticket localhost 0 1
+28 0 uc1_findticket 2 1701779613 0 localhost 0
+28 8 uc1_findticket 2  0 0
+28 2 uc1_findticket 2 1701779613 0 p 0 0
+28 4 uc2_buyticket 3 1701779614 0 uc2_buyticket localhost 0 1
+28 0 uc2_buyticket 3 1701779614 0 localhost 0
+28 8 uc2_buyticket 3  0 0
+28 2 uc2_buyticket 3 1701779614 0 p 0 0
+28 4 uc7_login 3 1701779615 0 uc7_login localhost 0 1
+28 0 uc7_login 3 1701779615 0 localhost 0
+28 8 uc7_login 3  0 0
+28 2 uc7_login 3 1701779615 0 p 0 0
+28 4 uc5_reguser 3 1701779616 0 uc5_reguser localhost 0 1
+28 0 uc5_reguser 3 1701779616 0 localhost 0
+28 8 uc5_reguser 3  0 0
+28 2 uc5_reguser 3 1701779616 0 p 0 0
+28 4 uc1_findticket 3 1701779617 0 uc1_findticket localhost 0 1
+28 0 uc1_findticket 3 1701779617 0 localhost 0
+28 8 uc1_findticket 3  0 0
+28 2 uc1_findticket 3 1701779617 0 p 0 0
+28 4 uc3_checktickets 2 1701779618 0 uc3_checktickets localhost 0 1
+28 0 uc3_checktickets 2 1701779618 0 localhost 0
+28 8 uc3_checktickets 2  0 0
+28 2 uc3_checktickets 2 1701779618 0 p 0 0
+28 4 uc4_deleteticket 2 1701779619 0 uc4_deleteticket localhost 0 1
+28 0 uc4_deleteticket 2 1701779619 0 localhost 0
+28 8 uc4_deleteticket 2  0 0
+28 2 uc4_deleteticket 2 1701779619 0 p 0 0
+28 4 uc7_login 4 1701779620 0 uc7_login localhost 0 1
+28 0 uc7_login 4 1701779620 0 localhost 0
+28 8 uc7_login 4  0 0
+28 2 uc7_login 4 1701779620 0 p 0 0
+28 4 uc2_buyticket 4 1701779621 0 uc2_buyticket localhost 0 1
+28 0 uc2_buyticket 4 1701779621 0 localhost 0
+28 8 uc2_buyticket 4  0 0
+28 2 uc2_buyticket 4 1701779621 0 p 0 0
+28 4 uc5_reguser 4 1701779622 0 uc5_reguser localhost 0 1
+28 0 uc5_reguser 4 1701779622 0 localhost 0
+28 8 uc5_reguser 4  0 0
+28 2 uc5_reguser 4 1701779622 0 p 0 0
+28 4 uc1_findticket 4 1701779623 0 uc1_findticket localhost 0 1
+28 0 uc1_findticket 4 1701779623 0 localhost 0
+28 8 uc1_findticket 4  0 0
+28 2 uc1_findticket 4 1701779623 0 p 0 0
+28 4 uc2_buyticket 5 1701779624 0 uc2_buyticket localhost 0 1
+28 0 uc2_buyticket 5 1701779624 0 localhost 0
+28 8 uc2_buyticket 5  0 0
+28 2 uc2_buyticket 5 1701779624 0 p 0 0
+28 4 uc7_login 5 1701779625 0 uc7_login localhost 0 1
+28 0 uc7_login 5 1701779625 0 localhost 0
+28 8 uc7_login 5  0 0
+28 2 uc7_login 5 1701779625 0 p 0 0
+28 4 uc5_reguser 5 1701779626 0 uc5_reguser localhost 0 1
+28 0 uc5_reguser 5 1701779627 0 localhost 0
+28 8 uc5_reguser 5  0 0
+28 2 uc5_reguser 5 1701779627 0 p 0 0
+28 4 uc1_findticket 5 1701779627 0 uc1_findticket localhost 0 1
+28 0 uc1_findticket 5 1701779627 0 localhost 0
+28 8 uc1_findticket 5  0 0
+28 2 uc1_findticket 5 1701779627 0 p 0 0
+28 4 uc3_checktickets 3 1701779628 0 uc3_checktickets localhost 0 1
+28 0 uc3_checktickets 3 1701779629 0 localhost 0
+28 8 uc3_checktickets 3  0 0
+28 2 uc3_checktickets 3 1701779629 0 p 0 0
+28 4 uc4_deleteticket 3 1701779630 0 uc4_deleteticket localhost 0 1
+28 0 uc4_deleteticket 3 1701779630 0 localhost 0
+28 8 uc4_deleteticket 3  0 0
+28 2 uc4_deleteticket 3 1701779630 0 p 0 0
+28 4 uc7_login 6 1701779631 0 uc7_login localhost 0 1
+28 0 uc7_login 6 1701779631 0 localhost 0
+28 8 uc7_login 6  0 0
+28 2 uc7_login 6 1701779631 0 p 0 0
+28 4 uc2_buyticket 6 1701779632 0 uc2_buyticket localhost 0 1
+28 0 uc2_buyticket 6 1701779632 0 localhost 0
+28 8 uc2_buyticket 6  0 0
+28 2 uc2_buyticket 6 1701779632 0 p 0 0
+28 4 uc5_reguser 6 1701779633 0 uc5_reguser localhost 0 1
+28 0 uc5_reguser 6 1701779633 0 localhost 0
+28 8 uc5_reguser 6  0 0
+28 2 uc5_reguser 6 1701779633 0 p 0 0
+28 4 uc1_findticket 6 1701779634 0 uc1_findticket localhost 0 1
+28 0 uc1_findticket 6 1701779634 0 localhost 0
+28 8 uc1_findticket 6  0 0
+28 2 uc1_findticket 6 1701779634 0 p 0 0
+28 1 uc5_reguser 5 1701783354 0 2
+28 1 uc4_deleteticket 3 1701783354 0 2
+28 1 uc5_reguser 4 1701783354 0 2
+28 1 uc7_login 6 1701783354 0 2
+28 1 uc5_reguser 2 1701783354 0 2
+28 1 uc7_login 5 1701783354 0 2
+28 1 uc1_findticket 6 1701783354 0 2
+28 1 uc5_reguser 1 1701783354 0 2
+28 1 uc4_deleteticket 2 1701783354 0 2
+28 1 uc7_login 4 1701783354 0 2
+28 1 uc4_deleteticket 1 1701783354 0 2
+28 1 uc7_login 3 1701783354 0 2
+28 1 uc2_buyticket 5 1701783354 0 2
+28 1 uc5_reguser 3 1701783354 0 2
+28 1 uc3_checktickets 1 1701783354 0 2
+28 1 uc2_buyticket 6 1701783354 0 2
+28 1 uc3_checktickets 2 1701783354 0 2
+28 1 uc5_reguser 6 1701783354 0 2
+28 1 uc2_buyticket 3 1701783356 0 2
+28 1 uc1_findticket 1 1701783357 0 2
+28 1 uc7_login 1 1701783361 0 2
+28 1 uc1_findticket 2 1701783362 0 2
+28 1 uc3_checktickets 3 1701783365 0 2
+28 1 uc1_findticket 3 1701783366 0 2
+28 1 uc7_login 2 1701783367 0 2
+28 1 uc2_buyticket 1 1701783369 0 2
+28 1 uc1_findticket 4 1701783373 0 2
+28 1 uc2_buyticket 2 1701783373 0 2
+28 1 uc1_findticket 5 1701783378 0 2
+28 1 uc2_buyticket 4 1701783385 0 2
+28 12 1701783385 1 1701783385 0 1701783385

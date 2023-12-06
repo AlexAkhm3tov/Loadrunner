@@ -1,0 +1,2 @@
+[Hosts]
+localhost=d:\ibs_loadrunner\results\ressearchmaxperf\localhost_34.eve

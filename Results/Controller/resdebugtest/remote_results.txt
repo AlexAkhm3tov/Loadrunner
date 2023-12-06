@@ -1,0 +1,2 @@
+[Hosts]
+localhost=d:\ibs_loadrunner\results\resdebugtest\localhost_1.eve

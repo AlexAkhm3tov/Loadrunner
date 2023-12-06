@@ -3,6 +3,7 @@ Action()
 	int i;
 	int j;
 	int k;
+	int l = 0;
 	int rndNumber;
 	int checkboxMas[20];
 	int checkboxMasNew[20];
@@ -57,17 +58,20 @@ Action()
 	    }
 	 
 		else {
+			
 			for(j = 0; j < sizeCheckbox; j++){
 				checkboxMas[j] = (j + 1);
+				lr_save_int(checkboxMas[j], "check");//debug
 			}
-     
-			lr_start_transaction("DeleteTicket");
 			
 			if (rndNumber == 1){
 				checkboxRand = rand() % sizeCheckbox;
+//				lr_save_int(checkboxRand, "check");//debug
 				checkboxValue = checkboxMas[checkboxRand];
 				lr_save_int(checkboxValue, "rndCheckbox1");
 				lr_save_string(lr_paramarr_idx("flightID", checkboxValue), "rndFlightID1");
+				
+			lr_start_transaction("DeleteTicket");
 				
 				web_reg_find("Fail=Found",
 				  "Text/IC={rndFlightID1}",
@@ -80,21 +84,34 @@ Action()
 					"Name=removeFlights.x", "Value=55", ENDITEM,
 					"Name=removeFlights.y", "Value=9", ENDITEM, 
 					LAST);
+			
+			lr_end_transaction("DeleteTicket",LR_AUTO);
+			
 			} else if (rndNumber == 2){
 				checkboxRand = rand() % sizeCheckbox;
+//				lr_save_int(checkboxRand, "check");//debug
 				checkboxValue = checkboxMas[checkboxRand];
 				lr_save_int(checkboxValue, "rndCheckbox1");
 				lr_save_string(lr_paramarr_idx("flightID", checkboxValue), "rndFlightID1");
-				               
+				
+				l = 0;
+				
 				for (k = 0; k < sizeCheckbox; k++){
-					if(k != (checkboxRand - 1)){
-				        checkboxMasNew[k] = checkboxMas[k];
+					if(k != checkboxRand){
+				        checkboxMasNew[k] = checkboxMas[l];
 	               	}
+					else {
+						checkboxMasNew[k] = checkboxMas[l + 1];
+						l++;
+					}
+					l++;
 				}
 				checkboxRand = rand() % (sizeCheckbox - 1);
 				checkboxValue = checkboxMasNew[checkboxRand];
 				lr_save_int(checkboxValue, "rndCheckbox2");
 				lr_save_string(lr_paramarr_idx("flightID", checkboxValue), "rndFlightID2");
+				
+			lr_start_transaction("DeleteTicket");
 				
 				web_reg_find("Fail=Found",
 				  "Text/IC={rndFlightID1}",
@@ -112,36 +129,58 @@ Action()
 					"Name=removeFlights.x", "Value=55", ENDITEM,
 					"Name=removeFlights.y", "Value=9", ENDITEM, 
 					LAST);
+			
+			lr_end_transaction("DeleteTicket",LR_AUTO);
+			
+			
 			} else if (rndNumber == 3){
 				checkboxRand = rand() % sizeCheckbox;
+//				lr_save_int(checkboxRand, "check");//debug
 				checkboxValue = checkboxMas[checkboxRand];
 				lr_save_int(checkboxValue, "rndCheckbox1");
 				lr_save_string(lr_paramarr_idx("flightID", checkboxValue), "rndFlightID1");
-				               
-				for (k = 0; k < sizeCheckbox; k++){
-					if(k != (checkboxRand - 1)){
-				        checkboxMasNew[k] = checkboxMas[k];
-	               	}
-				}
+				
+				l = 0;
 				
 				for (k = 0; k < sizeCheckbox; k++){
-				        checkboxMas[k] = checkboxMasNew[k];
+					if(k != checkboxRand){
+				        checkboxMasNew[k] = checkboxMas[l];
+	               	}
+					else {
+						checkboxMasNew[k] = checkboxMas[l + 1];
+						l++;
+					}
+					l++;
+				}
+				
+				for (k = 0; k < (sizeCheckbox - 1); k++){
+			        checkboxMas[k] = checkboxMasNew[k];
 				}
 				
 				checkboxRand = rand() % (sizeCheckbox - 1);
 				checkboxValue = checkboxMasNew[checkboxRand];
 				lr_save_int(checkboxValue, "rndCheckbox2");
 				lr_save_string(lr_paramarr_idx("flightID", checkboxValue), "rndFlightID2");
+				
+				l = 0;
 					
-				for (k = 0; k < sizeCheckbox; k++){
-					if(k != (checkboxRand - 1)){
-				        checkboxMasNew[k] = checkboxMas[k];
+				for (k = 0; k < (sizeCheckbox - 1); k++){
+					if(k != checkboxRand){
+				        checkboxMasNew[k] = checkboxMas[l];
 	               	}
+					else {
+						checkboxMasNew[k] = checkboxMas[l + 1];
+						l++;
+					}
+					l++;
 				}
+				
 				checkboxRand = rand() % (sizeCheckbox - 2);
 				checkboxValue = checkboxMasNew[checkboxRand];
 				lr_save_int(checkboxValue, "rndCheckbox3");
 				lr_save_string(lr_paramarr_idx("flightID", checkboxValue), "rndFlightID3");
+				
+			lr_start_transaction("DeleteTicket");
 				
 				web_reg_find("Fail=Found",
 				  "Text/IC={rndFlightID1}",
@@ -164,9 +203,10 @@ Action()
 					"Name=removeFlights.x", "Value=55", ENDITEM,
 					"Name=removeFlights.y", "Value=9", ENDITEM, 
 					LAST);
-			}
 			
 			lr_end_transaction("DeleteTicket",LR_AUTO);
+			
+			}
 				
 		}
 		

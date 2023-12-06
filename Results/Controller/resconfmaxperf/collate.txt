@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=D:\IBS_Loadrunner\Scenarios\ConfMaxPerf.lrs
+Completed=0

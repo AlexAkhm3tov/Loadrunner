@@ -1,0 +1,51 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2020.0.0.0
+Path=D:\IBS_Loadrunner\Scenarios\ConfMaxPerf.lrs
+Subject=DebugTest
+Result_file=d:\ibs_loadrunner\results\resconfmaxperf\resconfmaxperf.lrr
+Description=
+ResultName=resconfmaxperf
+Time_Zone=-18000
+Start_time=1701779603
+Daylight_Bias=0
+Stop_time=1701783385
+
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+
+[Data Collection]
+FullData=1
+SummaryEnded=1
+
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 30 Vusers: 1 every 00:00:01 (HH:MM:SS); Run for 01:02:00 (HH:MM:SS); Stop all Vusers simultaneously
+Load Behavior=Initialize each Vuser just before it runs
+Global Schedule=ST30_1E1;R3720;SP30;
+
+[Scripts]
+uc5_reguser=D:\IBS_Loadrunner\Scripts\UC5_RegUser\UC5_RegUser.usr
+uc7_login=D:\IBS_Loadrunner\Scripts\UC7_Login\UC7_Login.usr
+uc2_buyticket=D:\IBS_Loadrunner\Scripts\UC2_BuyTicket\UC2_BuyTicket.usr
+uc1_findticket=D:\IBS_Loadrunner\Scripts\UC1_FindTicket\UC1_FindTicket.usr
+uc3_checktickets=D:\IBS_Loadrunner\Scripts\UC3_CheckTickets\UC3_CheckTickets.usr
+uc4_deleteticket=D:\IBS_Loadrunner\Scripts\UC4_DeleteTicket\UC4_DeleteTicket.usr
+
+[Scripts_types]
+uc5_reguser=Multi+QTWeb
+uc7_login=Multi+QTWeb
+uc2_buyticket=Multi+QTWeb
+uc1_findticket=Multi+QTWeb
+uc3_checktickets=Multi+QTWeb
+uc4_deleteticket=Multi+QTWeb
+

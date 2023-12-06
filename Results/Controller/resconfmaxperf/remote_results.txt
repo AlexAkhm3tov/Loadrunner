@@ -1,0 +1,2 @@
+[Hosts]
+localhost=d:\ibs_loadrunner\results\resconfmaxperf\localhost_91.eve
